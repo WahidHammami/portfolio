@@ -1,4 +1,7 @@
 page_1.png
 page_2.png
 Linkedin Profile.pdf
-
+nextjs-app/node_modules/
+nextjs-app/.next/
+nextjs-app/out/
+*.txt
